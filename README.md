@@ -1,0 +1,2 @@
+# Blogs
+Notes for life
